@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'KApIqaD';
+	src: url('https://hol.kag.org/bs/css/fonts/kapiqad.eot');
+	src: url('https://hol.kag.org/bs/css/fonts/kapiqad.woff') format('woff'), 
+             url('https://hol.kag.org/bs/css/fonts/kapiqad.ttf') format('truetype'), 
+             url('https://hol.kag.org/bs/css/fonts/kapiqad.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HaSta';
+	src: url('https://hol.kag.org/bs/css/fonts/HaSta.eot') format('eot'), 
+	     url('https://hol.kag.org/bs/css/fonts/HaSta.woff') format('woff'), 
+	     url('https://hol.kag.org/bs/css/fonts/HaSta.ttf')  format('truetype'),
+	     url('https://hol.kag.org/bs/css/fonts/HaSta.svg#Klingonpiqadhasta') format('svg');
+}
+
+@font-face {
+	font-family: 'pIqaD';
+	src: url('https://hol.kag.org/bs/css/fonts/pIqaD.eot');
+	src: url('https://hol.kag.org/bs/css/fonts/pIqaD.woff') format('woff'), 
+             url('https://hol.kag.org/bs/css/fonts/pIqaD.ttf') format('truetype'), 
+             url('https://hol.kag.org/bs/css/fonts/pIqaD.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+        font-family: 'HaStaUC';
+        src: url('https://hol.kag.org/bs/css/fonts/HaSta.eot') format('eot'),
+             url('https://hol.kag.org/bs/css/fonts/HaSta.woff') format('woff'),
+             url('https://hol.kag.org/bs/css/fonts/HaSta.ttf')  format('truetype'),
+             url('https://hol.kag.org/bs/css/fonts/HaSta.svg#Klingonpiqadhasta') format('svg');
+	unicode-range: U+F8D0-F8FF;
+}
+
